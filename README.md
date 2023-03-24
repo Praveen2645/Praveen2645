@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Voting Smart Contract**
 
-- 🌱 I’m currently learning **Blockchain, Smart Contract,NFTs,ERC tokens**
+- 🌱 I’m currently learning **Web3 and making Dapps**
 
-- 💬 Ask me about **Blockchain, Smart Contract,NFTs,ERC tokens**
+- 💬 Ask me about **Blockchain, Smart Contract,NFTs,ERC tokens, Solidity**
 
 - 📫 How to reach me **praveen2645@gmail.com**
 
