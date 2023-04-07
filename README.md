@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveen2645" alt="praveen2645" /></a> </p>
 
-- 🔭 I’m currently working on **Voting Smart Contract**
+- 🔭 I’m currently working on **DeFi**
 
 - 🌱 I’m currently learning **Web3 and making Dapps**
 
-- 💬 Ask me about **Blockchain, Smart Contract,NFTs,ERC tokens, Solidity**
+- 💬 Ask me about **Blockchain, Smart Contract,NFTs,ERC tokens,DeFi, Solidity**
 
 - 📫 How to reach me **praveen2645@gmail.com**
 
