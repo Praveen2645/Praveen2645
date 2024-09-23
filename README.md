@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Praveen Patawkar</h1>
-<h3 align="center">A passionate Blockchain developer from India</h3>
+<h3 align="center">A passionate Business Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen2645&label=Profile%20views&color=0e75b6&style=flat" alt="praveen2645" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveen2645" alt="praveen2645" /></a> </p>
 
-- 🔭 I’m currently working on **DeFi**
 
-- 🌱 I’m currently learning **Web3 and making Dapps**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Blockchain, Smart Contract,NFTs,ERC tokens,DeFi, Solidity**
+- 💬 Ask me about **Excel,PowerBi,Tablue,SQL**
 
 - 📫 How to reach me **praveen2645@gmail.com**
 
