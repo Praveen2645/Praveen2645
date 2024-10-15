@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen Patawkar</h1>
-<h3 align="center">A passionate Business Analyst</h3>
+<h3 align="center">A passionate Business Analyst And a Blockchian developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen2645&label=Profile%20views&color=0e75b6&style=flat" alt="praveen2645" /> </p>
 
